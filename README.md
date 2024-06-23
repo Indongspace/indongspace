@@ -3,7 +3,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Data analyst who prefers academic study</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Data analyst who prefers academic study</li>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My BLog https://indong1998.tistory.com/ </li>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
